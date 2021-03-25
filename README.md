@@ -1,2 +1,4 @@
 # Phobos-1.9.0
-Cleaned Version of the newer Version of Phobos ill upload 1.7.2 in a few days 
+Phobos 1.9.0 Cleaned 
+
+(Removed obfuscated files that have never been used in the client and changed some files)
